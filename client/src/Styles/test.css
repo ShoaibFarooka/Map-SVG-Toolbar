@@ -1,0 +1,15 @@
+.Test .main {
+    color: blue;
+}
+.Test .btn {
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 10px 7px;
+    cursor: pointer;
+}
+
+.Test .btn:hover {
+}
